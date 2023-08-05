@@ -1,0 +1,144 @@
+.container {
+    border: 5px solid black;
+    margin: 20px auto;
+    width: fit-content;
+}
+.line {
+    display: flex;
+    margin: 20px;
+}
+.a {
+    width: 150px;
+    height: 100px;
+    border: 2px solid rgb(81, 79, 79);
+    background-color: rgb(193, 125, 125);
+    margin-right: 40px;
+}
+
+.b {
+    width: 600px;
+    height: 100px;
+    border: 2px solid rgb(81, 79, 79);
+    background-color: rgb(131, 205, 131);
+}
+
+.lastline {
+    width: 800px;
+    height: 100px;
+    border: 2px solid rgb(81, 79, 79);
+    background-color: rgb(241, 241, 111);
+    margin: 20px auto;
+}
+
+.container2 {
+    font-weight: bold;
+    border: 5px solid black;
+    margin: 100px auto;
+    width: fit-content;
+    padding: 10px;
+    background-color: rgb(239, 239, 99);
+}
+
+.header {
+    width: 800px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+    background-color: rgb(87, 232, 87);
+}
+
+.menu {
+    width: 800px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px 0px;
+    margin-top: 10px;
+    background-color: rgb(0, 255, 255);
+}
+
+.body {
+    margin-top: 10px;
+    display: flex;
+}
+
+.menu1 {
+    width: 200px;
+    height: 400px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+    background-color: rgb(83, 83, 214);
+}
+
+.content {
+    margin-left: 20px;
+    width: 578px;
+    height: 400px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+    background-color: blueviolet;
+}
+
+.footer {
+    margin-top: 10px;
+    width: 800px;
+    height: 30px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px 0px;
+    background-color: orangered;
+
+}
+
+
+.container3 {
+    font-weight: bold;
+    border: 5px solid black;
+    margin: 100px auto;
+    width: fit-content;
+    padding: 10px;
+}
+
+
+
+
+.header1 {
+    width: 845px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.body {
+    margin-top: 10px;
+    display: flex;
+}
+
+.maincontent {
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+    margin:0px 20px;
+
+}
+
+.content1 {
+    width: 200px;
+    height: 400px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.footer1 {
+    margin-top: 10px;
+    width: 845px;
+    height: 30px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px 0px;
+
+}
